@@ -148,6 +148,16 @@ nav li active a {
     color: var(--branding-color);
   }
 
+  footer .contact-box {
+    background: var(--secondary-color);
+    padding: 30px 120px;
+    border-radius: 10px;
+  }
+  
+  footer .contact-box p {
+    margin: 0;
+  }
+
   footer .social-links a {
     margin: 0 20px;
     color: var(--branding-color);
