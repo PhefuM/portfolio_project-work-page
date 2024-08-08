@@ -21,7 +21,7 @@
   }
   
   h1 {
-    font-size: 96px;
+    font-size: 90px;
     line-height: 1.5;
   }
   
@@ -70,7 +70,7 @@ nav li active a {
   .hero {
     background: var(--secondary-color);
     text-align: center;
-    padding: 160px 20px;
+    padding: 80px 20px;
   }
   
   .hero p {
@@ -88,7 +88,7 @@ nav li active a {
   }
   
   .content-container {
-    padding: 160px 20px;
+    padding: 60px 20px;
   }
   
   .content h1 {
@@ -133,6 +133,7 @@ nav li active a {
     padding: 120px 60px;
   }
 
+ 
   footer {
     margin: 60px 0;
   }
